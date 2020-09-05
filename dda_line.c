@@ -1,7 +1,7 @@
 #include <stdio.h>  // Header file that contains functions like printf and scanf.
 #include <math.h>   //  Header file that contains function round.
 
-void main()   // Execution of the prpgram starts here
+void main()   // Execution of the program starts here
 {
 	float x1,y1,x2,y2,dx,dy,step;   // Float variables have value in decimals
 	int i; 
