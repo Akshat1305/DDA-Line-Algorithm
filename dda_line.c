@@ -1,5 +1,6 @@
 #include <stdio.h>  // Header file that contains functions like printf and scanf.
 #include <math.h>   //  Header file that contains function round.
+#include <stdlib.h> // to use absolute function on float variables.
 
 void main()   // Execution of the program starts here
 {
