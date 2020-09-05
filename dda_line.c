@@ -11,10 +11,10 @@ void main()   // Execution of the prpgram starts here
 	printf("Enter the values of x2 and y2: ");
 	scanf("%f%f",&x2,&y2);
  
-	dx=abs(x2-x1);         // abs(Absolute) is used to consider positve value, as we are concerned only about magnitutde
+	dx=abs(x2-x1);         // abs(Absolute) is used to consider positve values, as we are concerned only about magnitutde
 	dy=abs(y2-y1);
  
-	if(dx>=dy)           // Using if-else conditional to comapre values of dx and dy, to decide the step.
+	if(dx>=dy)           // Using if-else conditional to comapare values of dx and dy, to decide the step.
 		step=dx;
 	else
 		step=dy;
