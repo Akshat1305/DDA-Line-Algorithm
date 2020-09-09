@@ -8,11 +8,11 @@ In any 2-Dimensional plane if we connect two points (x1, y1) and (x2, y2), we ge
 
 For using graphics functions, our system output screen is treated as a coordinate system where the coordinate of the top-left corner is (0, 0) and as we move down our y-ordinate increases and as we move right our x-ordinate increases for any point (x, y).
 
-**Header file graphics.h works only in Turbo C++**
+:warning: **Header file graphics.h works only in Turbo C++**
 
 ## Built With
 
 :beginner: C (http://mingw-w64.org/doku.php)  - The programming language used.
 
 ## Acknowledgments
-https://www.geeksforgeeks.org/dda-line-generation-algorithm-computer-graphics/
+:zap: https://www.geeksforgeeks.org/dda-line-generation-algorithm-computer-graphics/
