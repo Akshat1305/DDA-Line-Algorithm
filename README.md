@@ -10,6 +10,8 @@ For using graphics functions, our system output screen is treated as a coordinat
 
 :warning: **Header file graphics.h works only in Turbo C++**
 
+![computer-graphics-dda-algorithm9](https://user-images.githubusercontent.com/63666629/92563888-ebe62980-f295-11ea-8da0-099bd746e48e.jpg)
+
 ## Built With
 
 :beginner: C (http://mingw-w64.org/doku.php)  - The programming language used.
